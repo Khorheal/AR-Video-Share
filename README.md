@@ -11,5 +11,5 @@ I used GoogleAR framework through Unity.
 This project is nowhere near finished. It only works on iOS devices and has multiple bugs.
 
 Some finished products that I have gained inspiration for this project:
-https://www.teamviewer.com/en/solutions/augmented-reality-remote-support/
-https://chalk.vuforia.com/
+* https://www.teamviewer.com/en/solutions/augmented-reality-remote-support/
+* https://chalk.vuforia.com/
